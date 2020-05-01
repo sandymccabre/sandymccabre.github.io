@@ -1,1 +1,2 @@
-### just my ordinary blog
+### A Title
+Just my ordinary blog.
