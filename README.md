@@ -1,1 +1,1 @@
-# sandymccabre.github.io
+### just my ordinary blog
